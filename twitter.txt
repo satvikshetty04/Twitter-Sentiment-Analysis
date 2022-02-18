@@ -1,5 +1,0 @@
-[DEFAULT]
-consumerKey = NzvB2AJxTZ33ljb6rxXlcrRFm
-consumerSecret = DUSJgUIYciLojp1S0vs9QTi2uAaVjkni4HOCCa5xEW3hz8OI5e
-accessToken = 320858460-oU8u0g7O2Vk4qF6Rk6aMiPYoOmjyIVvHHCXuBvIM
-accessTokenSecret = 2sfZfyaSi1eHqZOE4cQ2eJNso4EqeDMorZwJWr3aDH0me
